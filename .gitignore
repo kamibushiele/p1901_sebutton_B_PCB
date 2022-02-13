@@ -1,5 +1,8 @@
 *.png
 elecrow/*
+allpcb/*
 *.py
 *.wrl
 *.csv
+*.xml
+*.net
